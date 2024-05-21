@@ -1,2 +1,2 @@
 # github-workflow
-console.log("To improve is to change")
+to improve is to change
